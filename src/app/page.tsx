@@ -1,5 +1,3 @@
-import "./Styles.scss";
-
 export default function Home() {
   return (
     <div className={"hello"}>
